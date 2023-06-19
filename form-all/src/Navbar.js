@@ -1,6 +1,7 @@
 const Navbar = () => {
     return (
-        <nav className="navbar">
+        // The following instanceof. creates a navbar
+        <nav className="navbar">  
             <div className="links">
                 <a href="/">Home</a>
                 <a href="/create">New page</a>
