@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.mb-4{
+  color:aquamarine;
+  display:inline-block;
+  font-size: 24px;
+
+}
+.navbar li{ 
+  width: 50%;
+  display: inline-block;
+  
+  /* max-width: 100%;
+  width: 1200px; */
+
+}
+
+.listparam{
+  color:red;
+  width:100%;
+
+
+}
